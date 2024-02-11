@@ -66,6 +66,6 @@ minima:
     - { platform: x,              user_url: "https://x.com/alshlyapin" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-  google_analytics: G-TQC2SPHKLN
+google_analytics: G-TQC2SPHKLN
 
 
